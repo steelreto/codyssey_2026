@@ -1,0 +1,1 @@
+세 로봇은 비교 대상 LLM(Claude·Gemini·ChatGPT)을, 금메달은 최종 선정된 모델(ChatGPT)을 상징적으로 표현함.
